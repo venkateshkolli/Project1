@@ -84,7 +84,8 @@ cross_validation <- function (nfold, alg="centroid") {
     result[test_group] <- (misclassifiedLumA+misclassifiedBasal)/(ncol(testLumA)+ncol(testBasal))
  }
 
- c(mean(result), sd(result))
+ # c(mean(result), sd(result))
+ paste("mean=",mean(result),"sd=",sd(result))
 }
 
 
