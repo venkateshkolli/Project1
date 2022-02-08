@@ -16,8 +16,8 @@ This assignment builds upon the R/RStudio class and expands the n-fold cross-val
 
 For the assignment use Project1.Rmd file which has a number “FIXME:” labels indicating where your intervention is required. There is a companion Project1.R where you can test and debug your code before adding it to Project1.Rmd.
 
-For extra points use lasso regression on the large dataset instead of logistic regression.x
+For extra points use lasso regression on the large dataset instead of logistic regression.
 
-The assignment is due on -- February 25, 2021 midnight.
+The assignment is due on -- February 24, 2022 midnight.
 
 The submission should be zip compressed file named "project1-[*your UC username*].zip" (e.g. "project1-lastnfi.zip") which includes project1.Rmd, project1.docx and any supporting R files. The zip file should be uploaded Canvas The assignment entry in Canvas will be created shortly.
